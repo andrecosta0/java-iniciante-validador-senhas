@@ -46,9 +46,8 @@ Aplicação simples, eficiente e interativa via console.
 
 ## Autor
 
-André Costa Sampaio  
-LinkedIn - André Costa Sampaio
-E-mail: andre.160402@gmail.com
+- [LinkedIn - André Costa Sampaio](https://www.linkedin.com/in/andre-costa-sampaio-328a78229/)  
+- E-mail: andre.160402@gmail.com
 
 ---
 
